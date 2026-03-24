@@ -1,4 +1,4 @@
-#🧠🎗️ Micro-Club Pinktober: Brain Tumor Classification
+# 🧠🎗️ Micro-Club Pinktober: Brain Tumor Classification
 
 Brain tumors are serious and potentially life-threatening conditions that require early and accurate diagnosis. Machine learning can play a crucial role in assisting medical professionals by automating the classification process.
 
