@@ -21,7 +21,7 @@ Takes medical data/images as input
 Classifies brain tumors into 4 stages (1, 2, 3, 4)
 Maximizes performance using the evaluation metric
 
-##👥 Contributors
+## 👥 Contributors
 -Nait Cherif Sabrinel
 -Dob Serine
 -Mesgui Alae
